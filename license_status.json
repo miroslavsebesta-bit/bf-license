@@ -1,4 +1,85 @@
 {
   "version": 1,
-  "allowed": {}
+  "updated_at": "2026-06-09T00:00:00+00:00",
+  "default_expires": "never",
+  "allowed": {
+    "2b031b8c659dcde1016309f59d7361840a0a7f30322c34c9cf919ce4ca7a7419": {
+      "name": "Miro",
+      "nickname": "Miro",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_1": {
+      "name": "Friend 1",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_2": {
+      "name": "Friend 2",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_3": {
+      "name": "Friend 3",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_4": {
+      "name": "Friend 4",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_5": {
+      "name": "Friend 5",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_6": {
+      "name": "Friend 6",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_7": {
+      "name": "Friend 7",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_8": {
+      "name": "Friend 8",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_9": {
+      "name": "Friend 9",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    },
+    "SEM_VLOZ_MACHINE_HASH_FRIEND_10": {
+      "name": "Friend 10",
+      "nickname": "",
+      "expires": "never",
+      "features": ["all"],
+      "enabled": true
+    }
+  },
+  "revoked_machine_hashes": []
 }
