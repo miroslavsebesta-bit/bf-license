@@ -5,14 +5,14 @@
   "allowed": {
     "336aca67ff8b5057b3d7b6a14a40b4fc89d9bf6ac2fff9b4384787ce6ad3953f": {
       "name": "Miro",
-      "nickname": "Miro",
+      "nickname": "ja doma",
       "expires": "never",
       "features": ["all"],
       "enabled": true
     },
     "2b031b8c659dcde1016309f59d7361840a0a7f30322c34c9cf919ce4ca7a7419": {
       "name": "Friend 1",
-      "nickname": "",
+      "nickname": "ja práca",
       "expires": "never",
       "features": ["all"],
       "enabled": true
