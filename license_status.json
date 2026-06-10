@@ -20,14 +20,14 @@
     "SEM_VLOZ_MACHINE_HASH_FRIEND_2": {
       "name": "Friend 2",
       "nickname": "",
-      "expires": "never",
+      "expires": "2027-01-01",
       "features": ["all"],
       "enabled": true
     },
     "SEM_VLOZ_MACHINE_HASH_FRIEND_3": {
       "name": "Friend 3",
       "nickname": "",
-      "expires": "never",
+      "expires": "2027-01-01",
       "features": ["all"],
       "enabled": true
     },
