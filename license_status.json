@@ -15,7 +15,7 @@
       "nickname": "ja práca",
       "expires": "2027-02-01",
       "features": ["all"],
-      "enabled": true
+      "enabled": false
     },
     "SEM_VLOZ_MACHINE_HASH_FRIEND_2": {
       "name": "Friend 2",
